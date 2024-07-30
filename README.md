@@ -39,6 +39,7 @@ Estas son algunas de las habilidades que estoy desarrollando:
 
 
 ## 🏆 Certificaciones y Cursos
+- **Quality Assurance Testing** - [EGG CORPORATION](https://egg.live/) [EN CURSO]
 - **Introducción a la programación con Python** - [Universidad Austral](coursera.org/verify/PYP9378RPUC7)
 - **Estructuras de datos en Python** - [Universidad Austral](coursera.org/verify/RGARQ57GGKC7)
 - **Introducción a la programación en Python I: Aprendiendo a programar con Python** - [Pontificia Universidad Católica de Chile](https://coursera.org/verify/R742AMRSPT53)
