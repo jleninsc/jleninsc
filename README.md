@@ -29,6 +29,7 @@ Estas son algunas de las habilidades que estoy desarrollando:
 ### 🔬 Pruebas y Herramientas
 - **JUnit:** Introducción, configuración y pruebas parametrizadas
 - **Maven y Mockito**
+- **Serenity, Postman**
 
 ### 🌐 Desarrollo Web
 - **HTML/CSS:** Estructura de páginas, diseño responsivo y elementos básicos
@@ -39,17 +40,13 @@ Estas son algunas de las habilidades que estoy desarrollando:
 
 
 ## 🏆 Certificaciones y Cursos
-- **Quality Assurance Testing** - [EGG CORPORATION](https://egg.live/) [EN CURSO]
+- **Quality Assurance Testing** - [EGG CORPORATION](https://egg.live/)
 - **Introducción a la programación con Python** - [Universidad Austral](https://coursera.org/verify/PYP9378RPUC7)
 - **Estructuras de datos en Python** - [Universidad Austral](https://coursera.org/verify/RGARQ57GGKC7)
 - **Introducción a la programación en Python I: Aprendiendo a programar con Python** - [Pontificia Universidad Católica de Chile](https://coursera.org/verify/R742AMRSPT53)
 - **IA para todos** - [DeepLearning.AI](https://coursera.org/verify/ABNP4FYASV7Z)
 - **Máster en SQL Server: Desde Cero a Nivel Profesional [2023]** - [Udemy](https://www.udemy.com/certificate/UC-dd801737-852c-475f-9f4e-745315b9617c/)
 - **Especialista en desarrollo de aplicaciones Java 2EE con SQL Server 2019** - [CETI](https://ceti.org.pe/web/binary/verify?token=Neqv9jBD3kZhL6lq3b4Jr7iUlfB1HuU3ONVnCe8s0Lk)
-
-
-## 🔨 Proyectos en Curso
-- **Página web personal**: En construcción con HTML y CSS.
 
 ## 🎯 Objetivos
 - 😎 Aprender más sobre desarrollo web.
