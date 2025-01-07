@@ -1,7 +1,7 @@
-# Hola 😁! mi nombre es Lenin Suxe 👋
+# Hola 😁! mi nombre es Lenin 👋
 
 ## Sobre Mí
-Soy Ingeniero de Sistemas apasionado por la tecnología 🚀 Estoy siempre buscando nuevos desafíos y uno de ellos es aprender programación.
+Soy Ingeniero de Sistemas apasionado por la tecnología 🚀 En busca de nuevos desafíos.
 <br>
 ⚡ Estoy feliz de que visites mi perfil.
 
@@ -40,7 +40,7 @@ Estas son algunas de las habilidades que estoy desarrollando:
 
 
 ## 🏆 Certificaciones y Cursos
-- **Quality Assurance Testing** - [EGG CORPORATION](https://egg.live/)
+- **Quality Assurance Testing** - [EGG CORPORATION](https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/65e645dd4594f296348f156a-1736286899749.pdf)
 - **Introducción a la programación con Python** - [Universidad Austral](https://coursera.org/verify/PYP9378RPUC7)
 - **Estructuras de datos en Python** - [Universidad Austral](https://coursera.org/verify/RGARQ57GGKC7)
 - **Introducción a la programación en Python I: Aprendiendo a programar con Python** - [Pontificia Universidad Católica de Chile](https://coursera.org/verify/R742AMRSPT53)
@@ -49,9 +49,9 @@ Estas son algunas de las habilidades que estoy desarrollando:
 - **Especialista en desarrollo de aplicaciones Java 2EE con SQL Server 2019** - [CETI](https://ceti.org.pe/web/binary/verify?token=Neqv9jBD3kZhL6lq3b4Jr7iUlfB1HuU3ONVnCe8s0Lk)
 
 ## 🎯 Objetivos
-- 😎 Aprender más sobre desarrollo web.
+- 😎 Aprender más sobre desarrollo web y QA.
 - 😇 Contribuir en proyectos de código abierto.
-- 😬 Mejorar mis habilidades en desarrollo móvil.
+- 😬 Mejorar mis habilidades en desarrollo.
 
 
 ## 📫 Enlaces y Contacto
